@@ -1,7 +1,6 @@
 import numpy as np
 import pandas as pd
 
-
 def stratified_kfolds(target, k, classes):
     #target é o vetor com as classes dos dados
 
