@@ -1,0 +1,4 @@
+itsdangerous==1.1.0
+nltk==3.4.3
+numpy==1.16.4
+six==1.12.0
